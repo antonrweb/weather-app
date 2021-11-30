@@ -26,3 +26,5 @@ Code quality matters, don't forget to handle edge cases as well.
 
 In this app use api.openweathermap. React.js, Redux, Redux-Saga.
 
+Weather - app hosting on my netlify. Check please how it's work [link](https://weather-app-task-react.netlify.app "check this")
+
